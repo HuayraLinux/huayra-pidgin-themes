@@ -1,0 +1,13 @@
+Source: huayra-pidgin-themes
+Section: Graphics
+Priority: optional
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: huayra-pidgin-themes
+Depends: pidgin (>= 2.10.9)
+Architecture: all
+Description: Temas de Emoticon para Pidgin de Huayra GNU/Linux
+ Temas de Huayra GNU/Linux para el mensajero Pidgin.
+
